@@ -1,0 +1,1 @@
+module.exports.first="This is first message";
